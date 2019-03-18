@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Char_test/Char_test.iml" filepath="$PROJECT_DIR$/Char_test/Char_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Finally_block/Finally_block.iml" filepath="$PROJECT_DIR$/Finally_block/Finally_block.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ForTest.iml" filepath="$PROJECT_DIR$/.idea/ForTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classT/classT.iml" filepath="$PROJECT_DIR$/classT/classT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/counter/counter.iml" filepath="$PROJECT_DIR$/counter/counter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/float_double/float_double.iml" filepath="$PROJECT_DIR$/float_double/float_double.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foo_throws/foo_throws.iml" filepath="$PROJECT_DIR$/foo_throws/foo_throws.iml" />
+    </modules>
+  </component>
+</project>
