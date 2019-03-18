@@ -5,10 +5,16 @@
       <module fileurl="file://$PROJECT_DIR$/Char_test/Char_test.iml" filepath="$PROJECT_DIR$/Char_test/Char_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Finally_block/Finally_block.iml" filepath="$PROJECT_DIR$/Finally_block/Finally_block.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ForTest.iml" filepath="$PROJECT_DIR$/.idea/ForTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Personal_equals/Personal_equals.iml" filepath="$PROJECT_DIR$/Personal_equals/Personal_equals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_Obj_Str/Test_Obj_Str.iml" filepath="$PROJECT_DIR$/Test_Obj_Str/Test_Obj_Str.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_abstract/Test_abstract.iml" filepath="$PROJECT_DIR$/Test_abstract/Test_abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/classT/classT.iml" filepath="$PROJECT_DIR$/classT/classT.iml" />
       <module fileurl="file://$PROJECT_DIR$/counter/counter.iml" filepath="$PROJECT_DIR$/counter/counter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/equals_k/equals_k.iml" filepath="$PROJECT_DIR$/equals_k/equals_k.iml" />
       <module fileurl="file://$PROJECT_DIR$/float_double/float_double.iml" filepath="$PROJECT_DIR$/float_double/float_double.iml" />
       <module fileurl="file://$PROJECT_DIR$/foo_throws/foo_throws.iml" filepath="$PROJECT_DIR$/foo_throws/foo_throws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/printX/printX.iml" filepath="$PROJECT_DIR$/printX/printX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_super_class/test_super_class.iml" filepath="$PROJECT_DIR$/test_super_class/test_super_class.iml" />
     </modules>
   </component>
 </project>
